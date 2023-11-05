@@ -1,6 +1,26 @@
 {
   "dependencies": {
+    "concat-stream": "^2.0.0",
     "how-to-npm": "^2.5.1",
+    "npm": "^10.2.3",
+    "which": "^4.0.0",
     "workshopper-adventure": "^7.0.0"
-  }
+  },
+  "name": "how-to-npm",
+  "description": "My own follow along of workshopper/how-to-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yleong/how-to-npm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yleong/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/yleong/how-to-npm#readme"
 }
