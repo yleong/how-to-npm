@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@linclark/pkg": "^1.0.2",
     "concat-stream": "^2.0.0",
     "how-to-npm": "^2.5.1",
     "npm": "^10.2.3",
@@ -22,6 +23,5 @@
   "bugs": {
     "url": "https://github.com/yleong/how-to-npm/issues"
   },
-  "homepage": "https://github.com/yleong/how-to-npm#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/yleong/how-to-npm#readme"
 }
