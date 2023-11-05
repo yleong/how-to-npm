@@ -6,7 +6,7 @@
     "which": "^4.0.0",
     "workshopper-adventure": "^7.0.0"
   },
-  "name": "how-to-npm",
+  "name": "@yew/how-to-npm",
   "description": "My own follow along of workshopper/how-to-npm",
   "version": "1.0.0",
   "main": "index.js",
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/yleong/how-to-npm/issues"
   },
-  "homepage": "https://github.com/yleong/how-to-npm#readme"
+  "homepage": "https://github.com/yleong/how-to-npm#readme",
+  "devDependencies": {}
 }
